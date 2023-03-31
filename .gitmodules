@@ -1,3 +1,6 @@
 [submodule "app_mf_poc_host_app"]
 	path = app_mf_poc_host_app
 	url = https://github.com/irenemherrero/app_mf_poc_host_app
+[submodule "app_mf_poc_details_app"]
+	path = app_mf_poc_details_app
+	url = https://github.com/irenemherrero/app_mf_poc_details_app
