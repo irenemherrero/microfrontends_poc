@@ -4,3 +4,6 @@
 [submodule "app_mf_poc_details_app"]
 	path = app_mf_poc_details_app
 	url = https://github.com/irenemherrero/app_mf_poc_details_app
+[submodule "app_mf_poc_vue_app"]
+	path = app_mf_poc_vue_app
+	url = https://github.com/irenemherrero/app_mf_poc_vue_app
