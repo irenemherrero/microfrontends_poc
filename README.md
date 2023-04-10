@@ -45,7 +45,7 @@ If you need further information on Module Federation implementation you can visi
 
 This is the main architecture of this POC:
 
-![poc architecture schema](app_mf_poc_vue_app/public/assets/poc_architecture_schema.png?raw=true "POC architecture schema")
+![poc architecture schema](public/assets/poc_architecture_schema.png?raw=true "POC architecture schema")
 
 There are 3 microapps. Each of them has its own repository and could have its own pipeline, tests, environments, connections to servers/db... The aim is to allow developers to work in different teams and handling their own projects.
 
