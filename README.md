@@ -1,6 +1,6 @@
 # Microfrontends POC
 ## Tutorial
-WIP
+[![Youtube Preview](https://img.youtube.com/vi/_ujO6coZUzE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_ujO6coZUzE)
 
 ## Description
 
